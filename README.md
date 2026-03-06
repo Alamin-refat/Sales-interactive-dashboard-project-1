@@ -37,3 +37,6 @@ These features allow users to explore the dataset from multiple perspectives and
 
 ---
 
+## 📸 Dashboard Preview
+![Dashboard Preview](https://via.placeholder.com/800x450.png?text=Add+Your+Dashboard+Screenshot+Here)
+> *Note: Please upload your dashboard screenshot to the 'Screenshots' folder and update this link.*
