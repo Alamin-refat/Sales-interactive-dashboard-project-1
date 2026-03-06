@@ -103,7 +103,7 @@ This project highlights the following core competencies:
 I am passionate about transforming raw data into actionable insights using modern data analytics and visualization techniques.
 
 * **GitHub:** [github.com/Alamin-refat](https://github.com/Alamin-refat)
-* **LinkedIn:** [Your LinkedIn Profile Link Here](www.linkedin.com/in/alaminrefat1)
+* **LinkedIn:** [www.linkedin.com/in/alaminrefat1](www.linkedin.com/in/alaminrefat1)
 
 ---
 
