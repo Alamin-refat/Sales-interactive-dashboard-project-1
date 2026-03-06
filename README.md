@@ -31,7 +31,7 @@ These features allow users to explore the dataset from multiple perspectives and
 
 ## 🛠 Tools & Technologies Used
 
-- Microsoft Excel / Power BI (Dashboard development)
+- Microsoft Excel 
 - Data Cleaning & Data Preparation
 - Data Visualization Techniques
 - Business Intelligence Concepts
