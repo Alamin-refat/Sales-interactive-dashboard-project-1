@@ -41,13 +41,15 @@ These features allow users to explore the dataset from multiple perspectives and
 
 ---
 
-## 📁 Project Structure
+## 📂 Folder Structure
 
 ```text
-├── Screenshots/                                      # Visual previews of the dashboard
-├── sales-interactive-dashboard-excel-project.xlsm    # Main Excel file containing the 
-|                                                        Interactive Dashboard
-└── README.md                                         # Project documentation
+├── Images/                                              # Contains dashboard screenshots & banners
+│   └── sales.PNG                                        # Main dashboard preview image
+├── data/                                                # Raw dataset used for the analysis
+|    └── sales-interactive-dashboard-excel-project.xlsm  # Main Interactive Excel Dashboard file
+├── LICENSE                                              # MIT License file
+├── README.md                                            # Project documentation
 
 ```
 
@@ -124,3 +126,5 @@ This project is licensed under the **MIT License**.
 You are free to use, modify, and distribute this project for personal or commercial purposes, provided that proper credit is given to the original author.
 
 See the LICENSE file for more details.
+
+---
