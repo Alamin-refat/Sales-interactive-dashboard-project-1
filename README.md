@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="Images/sales.png" alt="Sales Dashboard Banner" width="100%">
+  <img src="Images/sales.PNG" alt="Sales Dashboard Banner" width="100%">
 </p>
 
 # 📊 Sales Interactive Dashboard | Data Analytics Project
