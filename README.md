@@ -48,3 +48,19 @@ These features allow users to explore the dataset from multiple perspectives and
 ```
 
 ---
+
+## 📈 Insights Generated From the Dashboard
+
+Using this dashboard, users can easily analyze:
+
+- Total sales performance
+- Sales growth trends over time
+- Top-selling products
+- Regional sales distribution
+- Category contribution to total revenue
+
+These insights help businesses identify opportunities for growth and improve strategic decision-making.
+
+---
+
+
