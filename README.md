@@ -8,9 +8,7 @@
 ---
 
 ## 📌 Project Overview
-In many organizations, large amounts of sales data are generated daily. Without proper visualization, extracting meaningful insights from this data can be difficult.
-
-This project focuses on building an **interactive dashboard** that converts raw sales data into clear visual insights. The dashboard enables users to monitor key performance indicators (KPIs), track sales trends, and evaluate product performance efficiently.
+This project features a comprehensive **Sales Interactive Dashboard** developed using Advanced Microsoft Excel. The primary objective is to transform raw, fragmented sales data into a streamlined visual report that empowers stakeholders to monitor business health, identify growth opportunities, and make data-driven decisions.
 
 The goal of this project is to demonstrate practical skills in **data analysis, dashboard design, and business intelligence reporting**.
 
