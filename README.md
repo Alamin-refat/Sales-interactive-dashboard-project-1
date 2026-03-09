@@ -1,8 +1,6 @@
-<p align="center">
-  <img src="Images/sales.PNG" alt="Sales Dashboard Banner" width="100%">
-</p>
-
 # 📊 Sales Interactive Dashboard | Data Analytics Project
+
+![Dashboard Preview](Images/sales.PNG)
 
 ![Excel](https://img.shields.io/badge/Microsoft_Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white)
 ![Data Analysis](https://img.shields.io/badge/Data_Analysis-Interactive-blue?style=for-the-badge)
